@@ -5,10 +5,13 @@ body {
 
 header {
     height: 30%;
+    background-image: url("./assets/background.jpg");
+    background-size: 40% 40%;
+    background-repeat: repeat-x;
 }
 
 h1 {
     text-align: center;
-    color: white;
+    color: black;
     margin: 0;
 }
